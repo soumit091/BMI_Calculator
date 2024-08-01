@@ -1,0 +1,10 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="deep_purple">#793AB7</color> <!-- Deep Purple color for the button -->
+    <color name="underweight_bg">#FFC107</color> <!-- Yellow -->
+
+    <color name="overweight_bg">#F44336</color> <!-- Red -->
+    <color name="normalweight_bg">#673AB7</color>
+
+</resources>
